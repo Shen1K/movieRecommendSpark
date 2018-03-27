@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827cd4a2-406f-4008-bb40-be6ec7af5eb2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/DataCleaning/countType.scala" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/DataCleaning/splitDataSet.scala" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/DataCleaning/splitMovie.scala" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/Logger/LoggerLevels.scala" />
@@ -12,7 +11,6 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/Real_timeRecommendation/StreamingRecommender.scala" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/utils/ConnectPoolUtil.scala" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/utils/connectDataBaseUtil.scala" />
-      <change beforePath="$PROJECT_DIR$/../movieRecommendSpark/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../movieRecommendSpark/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../movieRecommendSpark/out/" />
     <ignored path="$PROJECT_DIR$/../movieRecommendSpark/target/" />
@@ -295,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522139158416</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="计算电影类型">
+      <created>1522139240076</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1522139240076</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -333,7 +338,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="推荐引擎" />
-    <option name="LAST_COMMIT_MESSAGE" value="推荐引擎" />
+    <MESSAGE value="计算电影类型" />
+    <option name="LAST_COMMIT_MESSAGE" value="计算电影类型" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
