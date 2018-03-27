@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827cd4a2-406f-4008-bb40-be6ec7af5eb2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/DataCleaning/splitDataSet.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/DataCleaning/splitMovie.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/Logger/LoggerLevels.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/ModelTest/TestModel.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/Off_lineRecommendation/RecommendForAllUsers(1).scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/Off_lineRecommendation/movieSimilar.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/Real_timeRecommendation/StreamingRecommender.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/utils/ConnectPoolUtil.scala" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/utils/connectDataBaseUtil.scala" />
+      <change beforePath="$PROJECT_DIR$/../movieRecommendSpark/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../movieRecommendSpark/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../movieRecommendSpark/out/" />
     <ignored path="$PROJECT_DIR$/../movieRecommendSpark/target/" />
@@ -56,8 +48,8 @@
       <file leaf-file-name="movieSimilar.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/Off_lineRecommendation/movieSimilar.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="114">
+              <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -133,6 +125,48 @@
               <item name="movieRecommendSpark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="movieRecommendSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movieRecommendSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="movieRecommendSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movieRecommendSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="DataCleaning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="movieRecommendSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movieRecommendSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Off_lineRecommendation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="movieRecommendSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movieRecommendSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Off_lineRecommendation" type="462c0819:PsiDirectoryNode" />
+              <item name="movieSimilar.scala" type="6117b065:FileNode" />
+            </path>
+            <path>
+              <item name="movieRecommendSpark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movieRecommendSpark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Off_lineRecommendation" type="462c0819:PsiDirectoryNode" />
+              <item name="movieSimilar.scala" type="6117b065:FileNode" />
+              <item name="Analysis$" type="ce8f04f3:TypeDefinitionNode" />
             </path>
             <path>
               <item name="movieRecommendSpark" type="b2602c69:ProjectViewProjectNode" />
@@ -300,7 +334,63 @@
       <option name="project" value="LOCAL" />
       <updated>1522139240076</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="切分数据集">
+      <created>1522139280144</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1522139280144</updated>
+    </task>
+    <task id="LOCAL-00006" summary="电影集清洗">
+      <created>1522139321976</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1522139321976</updated>
+    </task>
+    <task id="LOCAL-00007" summary="日志处理">
+      <created>1522139587251</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1522139587251</updated>
+    </task>
+    <task id="LOCAL-00008" summary="model测试">
+      <created>1522139630984</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1522139630984</updated>
+    </task>
+    <task id="LOCAL-00009" summary="电影相似度">
+      <created>1522139734597</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1522139734598</updated>
+    </task>
+    <task id="LOCAL-00010" summary="离线推荐电影">
+      <created>1522139782871</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1522139782871</updated>
+    </task>
+    <task id="LOCAL-00011" summary="实时推荐电影">
+      <created>1522139807293</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1522139807293</updated>
+    </task>
+    <task id="LOCAL-00012" summary="工具类">
+      <created>1522139830960</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1522139830960</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -339,7 +429,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="推荐引擎" />
     <MESSAGE value="计算电影类型" />
-    <option name="LAST_COMMIT_MESSAGE" value="计算电影类型" />
+    <MESSAGE value="切分数据集" />
+    <MESSAGE value="电影集清洗" />
+    <MESSAGE value="日志处理" />
+    <MESSAGE value="model测试" />
+    <MESSAGE value="电影相似度" />
+    <MESSAGE value="离线推荐电影" />
+    <MESSAGE value="实时推荐电影" />
+    <MESSAGE value="工具类" />
+    <option name="LAST_COMMIT_MESSAGE" value="工具类" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -388,8 +486,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../movieRecommendSpark/src/main/scala/Off_lineRecommendation/movieSimilar.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="114">
+          <caret line="35" column="49" lean-forward="true" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
           <folding />
         </state>
       </provider>
